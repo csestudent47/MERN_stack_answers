@@ -1,0 +1,18 @@
+Write a program to input marks of three tests of a student (all integers). Then calculate and print the average of all test marks.
+
+(Input Format)
+3 Test marks (in different lines)
+
+(output Format)
+Average
+
+answer:-
+
+M1=int(input(""))
+M2=int(input(""))
+M3=int(input(""))
+Total =M1+M2+M3
+Average =Total/3
+print(Average)
+
+
